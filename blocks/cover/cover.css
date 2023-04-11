@@ -1,0 +1,6 @@
+.cover {
+  display: flex;
+  position: relative;
+  max-width: 1184px;
+}
+
