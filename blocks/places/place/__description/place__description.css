@@ -1,6 +1,6 @@
 .place__description {
   display: grid;
-  align-content: start;  
+  align-content: start;
   row-gap: 26px;
 }
 @media screen and (max-width: 768px) {
