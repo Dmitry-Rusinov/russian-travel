@@ -14,7 +14,7 @@
   .places {
     max-width: calc(768px - 2 * 24px);
     width: calc(100% - 2 * 24px);
-    row-gap: 72px;
+    row-gap: 73px;
   }
 }
 @media screen and (max-width: 425px) {

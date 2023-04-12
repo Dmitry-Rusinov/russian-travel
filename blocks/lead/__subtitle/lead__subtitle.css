@@ -3,7 +3,6 @@
   padding: 0;
   margin-top: 32px;
   max-width: 640px;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -22,7 +21,7 @@
 @media screen and (max-width: 425px) {
   .lead__subtitle {
     font-size: 16px;
-    line-height: 1.25;
     width: calc(100% - 2 * 16px);
+    margin-top: 16px;
   }
 }

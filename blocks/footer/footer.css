@@ -17,6 +17,14 @@
     width: calc(100% - 2 * 24px);
   }
 }
+@media screen and (min-width: 321px) and (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    max-width: calc(767px - 2 * 24px);
+    width: calc(100% - 2 * 24px);
+    row-gap: 48px;
+  }
+}
 @media screen and (max-width: 320px) {
   .footer {
     flex-direction: column;
