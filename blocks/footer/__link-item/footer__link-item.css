@@ -8,6 +8,7 @@
   padding: 0;
   margin: 0;
   transition: opacity .6s;
+  max-width: fit-content;
 }
 .footer__link-item:hover {
   opacity: .8;
